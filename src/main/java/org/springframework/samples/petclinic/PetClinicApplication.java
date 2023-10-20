@@ -31,7 +31,7 @@ import org.springframework.context.annotation.ImportRuntimeHints;
 public class PetClinicApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Test");
+		System.out.println("Hello!");
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
 
